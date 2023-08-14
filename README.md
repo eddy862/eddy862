@@ -1,23 +1,14 @@
-<h1>👋 Hi, I’m @eddy862</h1>
-<h3>🌟 About Me</h3>
-<p>I'm a passionate computer science student. In my leisure time, I enjoy watching tutorials and working on hands-on projects for fun, from games to web development. I look forward to sharing my projects on GitHub.</p>
+<h1 align="center">Hi 👋, I'm Eddy</h1>
+<h3 align="center">A passionate Computer Science student from Malaysia</h3>
 
-<h3>🚀 Technologies and Tools</h3>
-<ul>
-  <li>Languages: Python, JavaScript, SQL, and C++</li>
-</ul>
-<h3>🌱 Currently Learning</h3>
-<p>I currently focusing on improving my skill in front-end development. I'm still learning on basics and planning to dive into frameworks like Bootstrap, Angular and React. I am a firm believer in continuous learning and self-improvement.</p>
+- 🌱 I’m currently learning **Front-end development**
 
-<h3>🤝 Let's Connect</h3>
-<ul>
-  <li><a href='https://www.linkedin.com/in/eddy-lim-013b36258/'>Linkelln</a></li>
-  <li>Email: limeddy1125@gmail.com</li>
-</ul>
+- 📫 How to reach me **limeddy1125@gmail.com**
 
-<h2>📝 Get in Touch</h2>
-<p>Feel free to reach out to me for any collaborations, project ideas, or just to say hi! It's always thrilling to connect with fellow developers.</p>
-<!---
-eddy862/eddy862 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/eddy-lim-013b36258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eddy-lim-013b36258" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
