@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eddy</h1>
-<h3 align="center">A passionate Computer Science student from Malaysia</h3>
+<h3 align="center">A passionate Computer Science student from University of Nottingham, Malaysia</h3>
+
+- 🔭 I'm interested in Web, Mobile App development
 
 - 🌱 I’m currently learning **Front-end development**
 
