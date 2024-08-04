@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Full-stack development**
 
+- 🤝 I’m looking for internship in relevant field
+
 - 📫 How to reach me **limeddy1125@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
