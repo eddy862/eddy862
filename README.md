@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eddy Lim Yee Yang</h1>
+<h1 align="center">Hi 👋, I'm Eddy</h1>
 <h3 align="center">A passionate Computer Science student from University of Nottingham, Malaysia</h3>
 
 - 🔭 I’m interested in **Web, Mobile App development**
