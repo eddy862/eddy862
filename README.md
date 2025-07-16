@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eddy</h1>
-<h3 align="center">A passionate Computer Science student from University of Nottingham, Malaysia</h3>
+<h3 align="center">A passionate Computer Science with AI student from University of Nottingham, Malaysia</h3>
 
-- 🔭 I’m interested in **Web, Mobile App development**
+- 🔭 I’m interested in **Web, Mobile App development**,**AI**
 
 - 🌱 I’m currently learning **Full-stack development**
 
-- 🤝 I’m looking for internship in relevant field
+- 🤝 I’m looking for internship/full-time role in relevant field
 
 - 📫 How to reach me **limeddy1125@gmail.com**
 
