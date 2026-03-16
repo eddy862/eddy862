@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m interested in Web, Mobile App development, AI, Software Architecture, UI/UX design<br>- 🌱 I’m currently learning Full-stack development<br>- 🤝 I’m looking for internship/full-time role in relevant field</p>
+<p align="left"> 🔭 I’m interested in Web, Mobile App development, AI, Software Architecture, UI/UX design<br> 🌱 I’m currently learning Full-stack development<br> 🤝 I’m looking for internship/full-time role in relevant field</p>
 
 ###
 
