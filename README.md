@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> 🔭 I’m interested in Web, Mobile App development, AI, Software Architecture, UI/UX design<br> 🌱 I’m currently learning Full-stack development<br> 🚀 I’m currently working as a Software Engineer, building fintech platform features</p>
+<p align="left"> 🔭 I’m interested in Web, Mobile App development, AI, Software Architecture, UI/UX design<br> 🌱 I’m currently learning Full-stack development<br> 🚀 I’m currently working as a Software Engineer</p>
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3RpMzA4cnIwd28yNmt2MjZ5ZGp4bnZ3bTR0ejhyYW0zNTNjdWJzZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3oriOiqKfPa3j4MKha/giphy.gif"  />
 
